@@ -10,6 +10,6 @@ Write a code to add a batter named Coffee for “donut” with name “Old Fasho
 Replace the ex5.json with the new data.
 
 3.Deploy 2 prgms in flask
-Deploy the previous two assignments on a flask api and we should be able to run this by calling.
+Deploy the previous two assignments on a flask api and we should be able to run this by calling
 /api/printHello
 /api/modifyRecepie
